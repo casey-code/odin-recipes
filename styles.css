@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(201, 252, 201);
+}
+
+.text {
+    background-color: white;
+    padding: 5px;
+    margin-top: 5px;
+    border-radius: 8px;
+}
+
+.side {
+    display: inline-block;
+    width: 50%;
+}
+
+img {
+    width: 45%;
+}
